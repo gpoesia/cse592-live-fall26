@@ -1,0 +1,3 @@
+# The solver and the demo use only the Python standard library.
+# visualize.py additionally needs pygame-ce, and ffmpeg to write the video.
+pygame-ce
