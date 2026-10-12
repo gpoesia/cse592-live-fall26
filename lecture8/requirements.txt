@@ -1,0 +1,3 @@
+numpy
+# visualize.py additionally needs pygame-ce, and ffmpeg to write the videos.
+pygame-ce
